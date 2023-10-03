@@ -70,3 +70,19 @@ def areaofrec3():
     print("The distance of the rectangle is:", round(distance, 2),"Metres")
 areaofrec3()
 
+# sixth function
+# this function calculates the gradient of a slope from values inputted from a user
+
+def gradientCalc():
+    x1 = float(input("Please enter x1: "))
+    y1 = float(input("Please enter y1: "))
+    x2 = float(input("Please enter x2: "))
+    y2 = float(input("Please enter y2: "))
+
+    changeinx = x2-x1
+    changeiny = y2-y1
+    slope = changeiny/changeinx
+
+    print("The gradient of the slope is:", slope)
+gradientCalc()
+
