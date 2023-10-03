@@ -1,6 +1,5 @@
 # beginners-code-w2
 
-This is the continuation of the code journey, week two's content.
 
 ## Contents
 
