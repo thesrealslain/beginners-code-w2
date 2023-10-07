@@ -113,7 +113,7 @@ def travelStatistics():
    print("Your distance travelled is:", round(distancetravelled, 2),"km", "and your fuel usage is", round(fuelusage, 2),"litres")
 travelStatistics()
 
-# eigth: basic function
+# eighth: basic function
 # write a function named sumOfSquares that uses a loop to output the sum 1**2 + 2**2 + … + n**2 where n is an integer provided by the user,
 # for example, if the user enters 3, the function should output 14 (1**2 + 2**2 + 3**2)
 
